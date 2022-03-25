@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- S
-- [Live Site :](https://testimonial-section-grid.vercel.app/)
+-
+- [Live Site](https://testimonial-section-grid.vercel.app/)
 
 ## My process
 
@@ -48,9 +48,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.sai-prasad.me)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sai-prasad-1)
-- Twitter - [@yourusername](https://www.twitter.com/Sai_prasad_2003)
+- Website - [sai-prasad.me your](https://www.sai-prasad.me)
+- Frontend Mentor - [sai-prasad-1](https://www.frontendmentor.io/profile/sai-prasad-1)
+- Twitter - [Sai_prasad_2003](https://www.twitter.com/Sai_prasad_2003)
 
 
 
