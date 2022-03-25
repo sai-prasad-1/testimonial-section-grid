@@ -10,9 +10,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  
 
 
 
@@ -27,11 +25,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+![](./mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- S
+- [Live Site :](https://testimonial-section-grid.vercel.app/)
 
 ## My process
 
@@ -49,9 +48,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://www.sai-prasad.me)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sai-prasad-1)
+- Twitter - [@yourusername](https://www.twitter.com/Sai_prasad_2003)
 
 
 
